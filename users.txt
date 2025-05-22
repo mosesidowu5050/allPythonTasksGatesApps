@@ -1,0 +1,10 @@
+student|moses|moses0000@gmail.com|0000|
+student|moses|moses@gmail.com|0000|eeconomics:50,cibex:Not Graded
+instructor|idowu|idowu0000@gmail.com|0000
+student|moses|moses|1111|
+student|idowu|idowu@gmail.com|0000|
+powe|dare|dare|1111
+student|moses|idowumoses@gmail.com|moses10
+instructor|alaba|alaba20@gmail.com|alaba200
+student|moses|mosesidowu@gmail.com|moses10
+student|moses|mosesadewale@gmail.com|adewale12
